@@ -64,7 +64,8 @@ def run(s)
       play(s)
       run(s)
     else
-      puts "wrong command"
+      puts "WRONG COMMAND..."
+      help
       run(s)
     end
   end
