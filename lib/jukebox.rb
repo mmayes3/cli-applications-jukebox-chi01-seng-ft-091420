@@ -71,7 +71,7 @@ def run(s)
   end
 end
 
-#run(songs)
+run(songs)
 
 
 
